@@ -27,7 +27,7 @@ I modelli 3D delle zucche sono su MakerWorld: **[link MakerWorld]**
 
 | Versione | Per chi | Dove |
 |---|---|---|
-| **.exe per Windows** (consigliata) | Chi non ha Python | [**Releases**](https://github.com/D3DCreate/Halloween_screen_topper/releases) → scarica lo ZIP, estrailo, avvia `ScreenTopper_Halloween.exe` |
+| **.exe per Windows** (consigliata) | Chi non ha Python | [**Releases**](https://github.com/D3Dcreate/Halloween_screen_topper/releases) → scarica lo ZIP, estrailo, avvia `ScreenTopper_Halloween.exe` |
 | **Script Python** | Chi ha Python 3.9+ | [`ScreenTopper_Halloween.py`](ScreenTopper_Halloween.py) |
 
 Le istruzioni complete con foto sono nel PDF: [`Istruzioni_Screen_Topper_Halloween.pdf`](Istruzioni_Screen_Topper_Halloween.pdf)
@@ -36,6 +36,11 @@ Le istruzioni complete con foto sono nel PDF: [`Istruzioni_Screen_Topper_Hallowe
 > quindi al primo avvio Windows può mostrare "PC protetto": clicca *Ulteriori informazioni* → *Esegui comunque*.
 > Alcuni antivirus segnalano per prudenza i programmi creati con Python: sono falsi positivi.
 > Il codice sorgente è qui, completo e leggibile da chiunque.
+
+🛡️ **Controllo antivirus**: `ScreenTopper_Halloween.exe` della versione 1.1 (lo stesso contenuto nello ZIP della release)
+è stato analizzato con [VirusTotal](https://www.virustotal.com/gui/file/93d9d8c676238693383dbd13dfa3f54a1cbbaefeb7ba179bee5dd3f105db7aa5)
+il 22/10/2026: **0 segnalazioni su 67 antivirus**.
+SHA256 dell'exe: `93d9d8c676238693383dbd13dfa3f54a1cbbaefeb7ba179bee5dd3f105db7aa5`
 
 ### 🖱️ Uso in breve
 
@@ -75,7 +80,7 @@ The 3D models of the pumpkins are on MakerWorld: **[MakerWorld link]**
 
 | Version | For | Where |
 |---|---|---|
-| **Windows .exe** (recommended) | No Python needed | [**Releases**](https://github.com/D3DCreate/Halloween_screen_topper/releases) → download the ZIP, extract it, run `ScreenTopper_Halloween.exe` |
+| **Windows .exe** (recommended) | No Python needed | [**Releases**](https://github.com/D3Dcreate/Halloween_screen_topper/releases) → download the ZIP, extract it, run `ScreenTopper_Halloween.exe` |
 | **Python script** | If you have Python 3.9+ | [`ScreenTopper_Halloween.py`](ScreenTopper_Halloween.py) |
 
 Full illustrated instructions are in the PDF: [`Istruzioni_Screen_Topper_Halloween.pdf`](Istruzioni_Screen_Topper_Halloween.pdf)
@@ -84,6 +89,11 @@ Full illustrated instructions are in the PDF: [`Istruzioni_Screen_Topper_Hallowe
 > so on first start Windows may show "Windows protected your PC": click *More info* → *Run anyway*.
 > Some antivirus programs flag Python-built programs out of caution: these are false positives.
 > The full source code is right here for anyone to read.
+
+🛡️ **Antivirus check**: `ScreenTopper_Halloween.exe` of version 1.1 (the same file inside the release ZIP)
+was scanned with [VirusTotal](https://www.virustotal.com/gui/file/93d9d8c676238693383dbd13dfa3f54a1cbbaefeb7ba179bee5dd3f105db7aa5)
+on 22/10/2026: **0 detections out of 67 antivirus engines**.
+SHA256 of the exe: `93d9d8c676238693383dbd13dfa3f54a1cbbaefeb7ba179bee5dd3f105db7aa5`
 
 ### 🖱️ Quick start
 
