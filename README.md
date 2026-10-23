@@ -1,4 +1,4 @@
-﻿# Halloween Screen Topper – D3D Create by Dario
+# Halloween Screen Topper – D3D Create by Dario
 
 🇮🇹 [Italiano](#italiano) · 🇬🇧 [English](#english)
 
@@ -38,9 +38,9 @@ Le istruzioni complete con foto sono nel PDF: [`Istruzioni_Screen_Topper_Hallowe
 > Il codice sorgente è qui, completo e leggibile da chiunque.
 
 🛡️ **Controllo antivirus**: `ScreenTopper_Halloween.exe` della versione 1.1 (lo stesso contenuto nello ZIP della release)
-è stato analizzato con [VirusTotal](https://www.virustotal.com/gui/file/93d9d8c676238693383dbd13dfa3f54a1cbbaefeb7ba179bee5dd3f105db7aa5)
-il 22/10/2026: **0 segnalazioni su 67 antivirus**.
-SHA256 dell'exe: `93d9d8c676238693383dbd13dfa3f54a1cbbaefeb7ba179bee5dd3f105db7aa5`
+è stato analizzato con [VirusTotal](https://www.virustotal.com/gui/file/74c4056705ea07829624295d515cd104cffa3a385a2782ea355e9ff1a62eebe6)
+il 23/10/2026: **0 segnalazioni su 70 antivirus**.
+SHA256 dell'exe: `74c4056705ea07829624295d515cd104cffa3a385a2782ea355e9ff1a62eebe6`
 
 ### 🖱️ Uso in breve
 
@@ -91,9 +91,9 @@ Full illustrated instructions are in the PDF: [`Istruzioni_Screen_Topper_Hallowe
 > The full source code is right here for anyone to read.
 
 🛡️ **Antivirus check**: `ScreenTopper_Halloween.exe` of version 1.1 (the same file inside the release ZIP)
-was scanned with [VirusTotal](https://www.virustotal.com/gui/file/93d9d8c676238693383dbd13dfa3f54a1cbbaefeb7ba179bee5dd3f105db7aa5)
-on 22/10/2026: **0 detections out of 67 antivirus engines**.
-SHA256 of the exe: `93d9d8c676238693383dbd13dfa3f54a1cbbaefeb7ba179bee5dd3f105db7aa5`
+was scanned with [VirusTotal](https://www.virustotal.com/gui/file/74c4056705ea07829624295d515cd104cffa3a385a2782ea355e9ff1a62eebe6)
+on 23/10/2026: **0 detections out of 70 antivirus engines**.
+SHA256 of the exe: `74c4056705ea07829624295d515cd104cffa3a385a2782ea355e9ff1a62eebe6`
 
 ### 🖱️ Quick start
 

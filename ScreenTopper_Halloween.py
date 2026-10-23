@@ -14,7 +14,7 @@ sul bordo del monitor. Richiede solo Python 3 (tkinter incluso), Windows.
 Lights up the holes of a 3D printed pumpkin hanging on top of your monitor.
 Left drag = move, right drag = resize, arrow keys = fine move.
 
-https://github.com/D3DCreate/Halloween_screen_topper
+https://github.com/D3Dcreate/Halloween_screen_topper
 Licenza / License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
 Fornito "cosi' com'e'", senza garanzie / Provided "as is", without warranty.
 """
